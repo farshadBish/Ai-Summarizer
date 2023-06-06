@@ -1,6 +1,7 @@
 import Demo from "./components/Demo"
 import Hero from "./components/Hero"
 import './App.css'
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
       </div>
       <div className="app">
       <Hero/>
-    <Demo/>
+      <Demo/>
+      <Footer/>
       </div>
     </main>
   )
