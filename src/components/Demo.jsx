@@ -45,7 +45,7 @@ const Demo = () => {
   }
 
   return (
-    <section className='mt-16 w-full max-w-xl'>
+    <section className='mt-16 w-full max-w-xl min-h-[49vh]'>
       <div className="flex flex-col w-full gap-3">
         <form 
         className="relative flex justify-center items-center"
