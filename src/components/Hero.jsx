@@ -19,6 +19,9 @@ function Hero() {
         Summarize your reading with this AI summarizer!
         It transforms long and lengthy articles into clean and concise summaries 
       </h2>
+      <h3 className=' text-gray-600 text-center'>
+        Just put the url of your article inside the input and get the results!( makes sure you put the https:// at the start. )
+      </h3>
     </header>
   )
 }
